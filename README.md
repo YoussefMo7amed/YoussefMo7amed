@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on [Arabic Services](https://github.com/Seen-Arabic/Arabic-Services)
 
-- 🌱 I’m currently learning **Hadoop**
-
 - 💬 Ask me about **Algorithms, Data Structure and Statistics.**
 
 - 📫 How to reach me **YoussefMo7amed@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/youssefmo7amed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="youssefmo7amed" height="30" width="40" /></a>
+<a href="https://dev.to/youssefmo7amed" target="blank"><img align="center" src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="youssefmo7amed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/youssefmo7amed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefmo7amed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/youssef_mo7amed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youssef_mo7amed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/youssefmo7amed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssefmo7amed" height="30" width="40" /></a>
