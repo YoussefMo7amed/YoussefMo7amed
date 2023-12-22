@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Arabic Services](https://github.com/Seen-Arabic/Arabic-Services)
 
-- 💬 Ask me about **Algorithms, Data Structure and Statistics.**
+- 💬 Ask me about **Algorithms, Data Structure, Database and Statistics.**
 
 - 📫 How to reach me **YoussefMo7amed@protonmail.com**
 
